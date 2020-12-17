@@ -44,7 +44,7 @@
 // makeItRain();
 
 new Typed('#typed',{
-        strings : ['Selamat Hari Raya Idul Fitri 1441 H. Mohon maaf lahir dan batin.'],
+        strings : ['Semangat UAS nya! Yu kita bareng-bareng, jangan terlalu ambis ya! :D'],
         typeSpeed : 70,
         delaySpeed : 70,
         loop : true
